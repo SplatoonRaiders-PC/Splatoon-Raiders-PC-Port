@@ -1,0 +1,2 @@
+/* rev-b7e4a1-20260926 */
+unpack guide, install ryujinx or yuzu, your keys and dump
